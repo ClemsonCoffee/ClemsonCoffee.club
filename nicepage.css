@@ -34263,21 +34263,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 155px;
+  min-height: 173px;
+}
+
+.u-header .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 74px auto 0 327px;
 }
 
 .u-header .u-image-1 {
-  width: 141px;
-  height: 141px;
-  background-image: url("images/customCoffeePaw.png");
-  background-position: 50% 50%;
-  margin: 7px auto 0 35px;
-}
-
-.u-header .u-image-2 {
   width: 80px;
   height: 0;
-  margin: -2px auto 0 0;
+  margin: 33px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -34298,18 +34295,14 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 
-.u-header .u-text-1 {
-  animation-duration: 1000ms;
-  margin: -80px auto 58px 322px;
+.u-header .u-image-2 {
+  width: 147px;
+  height: 156px;
+  margin: -129px auto 8px 10px;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 141px;
-    height: 141px;
-  }
-
-  .u-header .u-image-2 {
-    margin-top: -2px;
+  .u-header .u-text-1 {
+    margin-left: 270px;
   }
 
   .u-header .u-menu-1 {
@@ -34317,29 +34310,49 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -45px;
   }
 
-  .u-header .u-text-1 {
-    margin-top: -80px;
+  .u-header .u-image-2 {
+    width: 147px;
+    height: 156px;
+    margin-top: -129px;
+    margin-bottom: 8px;
     margin-left: 266px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-text-1 {
+    margin-left: 207px;
+  }
+
+  .u-header .u-image-2 {
     margin-left: 204px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
+    margin-top: -151px;
+    margin-left: 155px;
+  }
+
+  .u-header .u-image-2 {
+    margin-bottom: 60px;
     margin-left: 153px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-image-1 {
-    margin-left: 0;
-  }
-
   .u-header .u-text-1 {
     width: auto;
-    margin: -86px 20px 60px 150px;
+    margin-right: 20px;
+    margin-left: 150px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 297px;
+  }
+
+  .u-header .u-image-2 {
+    margin-top: 30px;
+    margin-bottom: 0;
+    margin-left: 0;
   }
 }
 .u-footer {

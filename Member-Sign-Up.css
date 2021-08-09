@@ -10,7 +10,6 @@
 .u-section-1 .u-group-1 {
   width: 692px;
   min-height: 177px;
-  height: auto;
   margin: 30px auto 0;
 }
 
@@ -29,7 +28,6 @@
 .u-section-1 .u-group-2 {
   width: 267px;
   min-height: 523px;
-  height: auto;
   margin: 32px auto 60px;
 }
 
@@ -55,7 +53,6 @@
   .u-section-1 .u-group-1 {
     min-height: 192px;
     margin-top: 11px;
-    height: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -63,10 +60,6 @@
     margin-top: 16px;
     margin-left: 43px;
     margin-right: 43px;
-  }
-
-  .u-section-1 .u-group-2 {
-    height: auto;
   }
 
   .u-section-1 .u-container-layout-2 {
