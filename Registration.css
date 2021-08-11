@@ -14,8 +14,13 @@
 .u-section-1 .u-custom-html-1 {
   margin-top: 29px;
   margin-bottom: 60px;
-  height: auto;
   min-height: 1332px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
 }
 
 @media (max-width: 575px) {
