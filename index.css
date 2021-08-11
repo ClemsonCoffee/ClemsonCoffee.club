@@ -719,19 +719,6 @@
   margin: 19px 0 0 223px;
 }
 
-.u-section-4 .u-social-icons-1 {
-  height: 32px;
-  min-height: 16px;
-  width: 32px;
-  min-width: 16px;
-  background-image: none;
-  margin: 9px 37px 0 auto;
-}
-
-.u-section-4 .u-icon-1 {
-  background-image: none;
-}
-
 .u-section-4 .u-container-layout-2 {
   padding: 30px;
 }
@@ -761,14 +748,6 @@
   font-weight: 300;
   font-style: normal;
   margin: 19px 0 0 223px;
-}
-
-.u-section-4 .u-social-icons-2 {
-  height: 32px;
-  min-height: 16px;
-  width: 32px;
-  min-width: 16px;
-  margin: 9px 37px 0 auto;
 }
 
 @media (max-width: 1199px) {
